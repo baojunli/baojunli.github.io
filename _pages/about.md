@@ -20,7 +20,7 @@ social: true
 我的研究兴趣在于：
 
 * AI for health
-* 多模态AI
-* EEG-fMRI分析
+* 多模态表征学习
+* 神经信号转码
 
 联系方式：libaojun03@qq.com
